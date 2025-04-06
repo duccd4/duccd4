@@ -16,8 +16,8 @@
 
 -   **10/02/2025** | **Top 1 VMLU Leaderboard**
     - Achieved state-of-the-art 82.6 score (2nd place: 77.43) on VMLU - Vietnamese Multitask Language Understanding Benchmark Suite for LLMs, organized by ZaloAI x JAIST
-    [![LLM Leaderboard](https://github.com/duccd4/duccd4/blob/main/vmlu1.png)](link_2)
-    [![LLM Leaderboard](https://github.com/duccd4/duccd4/blob/main/vmlu2.png)](link_2)
+    [![LLM Leaderboard](https://github.com/duccd4/duccd4/blob/main/vmlu1.png)](web_link)
+    [![LLM Leaderboard](https://github.com/duccd4/duccd4/blob/main/vmlu2.png)](web_link)
 
 #### 2024
 
