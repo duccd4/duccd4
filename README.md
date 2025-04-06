@@ -11,6 +11,7 @@
 
 -   **09/02/2025** | **Top 1 - Vietnam Ministry of Science and Technology's Vietnamese LLM Evaluation Standard (Round 1)**
     - Top 1 in the LLM capability ranking questions section.
+    - Outperform 5 leading Vietnamese AI enterprises.
     <p align="center">
       <a href="web_link">
         <img src="https://raw.githubusercontent.com/duccd4/duccd4/main/most1.png" alt="LLM Leaderboard" width="650"/>
