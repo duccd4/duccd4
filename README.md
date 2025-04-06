@@ -8,7 +8,7 @@
 -   **19/03/2025** | **Top 1 - Vietnam Ministry of Science and Technology's Vietnamese LLM Evaluation Standard (Round 2)**
     - Top 1 in the mandatory questions section.
     - Passing this section is required for businesses to commercialize LLMs.
-    [![Gov Certification](link_3)](link_3)
+    [![Gov Certification](link_3)]([link_3](https://github.com/duccd4/duccd4/blob/main/vmlu1.png))
 
 -   **09/02/2025** | **Top 1 - Vietnam Ministry of Science and Technology's Vietnamese LLM Evaluation Standard (Round 1)**
     - Top 1 in the LLM capability ranking questions section.
