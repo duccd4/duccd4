@@ -12,7 +12,7 @@
 
 -   **09/02/2025** | **Top 1 - Vietnam Ministry of Science and Technology's Vietnamese LLM Evaluation Standard (Round 1)**
     - Top 1 in the LLM capability ranking questions section.
-    <img src="https://github.com/duccd4/duccd4/blob/main/most1.png" width="500px">
+      <img src="https://github.com/duccd4/duccd4/blob/main/most1.png" width="500px">
 
 -   **10/02/2025** | **Top 1 VMLU Leaderboard**
     - Achieved state-of-the-art 82.6 score (2nd place: 77.43) on VMLU - Vietnamese Multitask Language Understanding Benchmark Suite for LLMs, organized by ZaloAI x JAIST
