@@ -13,7 +13,7 @@
     - Top 1 in the LLM capability ranking questions section.
     <p align="center">
       <a href="web_link">
-        <img src="https://raw.githubusercontent.com/duccd4/duccd4/main/most1.png" alt="LLM Leaderboard" width="800"/>
+        <img src="https://raw.githubusercontent.com/duccd4/duccd4/main/most1.png" alt="LLM Leaderboard" width="700"/>
       </a>
     </p>
 
