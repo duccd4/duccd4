@@ -1,3 +1,6 @@
+<h1 align="center">Hi 👋, I'm Chu Dinh Duc</h1>
+<h3 align="center">AI Engineer | 3+ Years Building Models & Production AI Systems</h3>
+
 ### 🏆 Achievement Timeline
 
 #### 2025
@@ -13,6 +16,7 @@
   [![LLM Leaderboard](link_2)](link_2)
 
 #### 2024
+
 - **13/08/2024** | 🥇 **1st Place Winner - WeHackathon**  
   Won championship in Data Synthesis & Data Distillation category  
   [![WeHackathon Result](link_1)](link_1)
