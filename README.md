@@ -7,16 +7,16 @@
 
 - **09/02 - 19/03/2025** | 📜 **Government Certification Dominance**  
   Maintained #1 position on Vietnam Ministry of Science and Technology's LLM Commercialization Benchmark:
-  - 09/02/2025: First model passing strict commercialization requirements
-  - 19/03/2025: Extended leadership with improved evaluation metrics  
+  - 09/02/2025: First model to pass strict commercialization requirements
+  - 19/03/2025: Consolidated leadership with enhanced evaluation metrics  
   [![Gov Certification](link_3)](link_3)
 
-- **10/02/2025** | 🚀 **Top Vietnamese LLM Leaderboard**  
-  Achieved state-of-the-art 82.6 VNHS score (2nd place: 76.87) on Vietnamese language understanding benchmark  
+- **10/02/2025** | � **Top 1 VMLU Leaderboard**  
+  Achieved state-of-the-art 82.6 score (2nd place: 76.87) on VMLU - Vietnamese Multitask Language Understanding Benchmark Suite for LLMs, organized by ZaloAI and JAIST  
   [![LLM Leaderboard](link_2)](link_2)
 
 #### 2024
 
-- **13/08/2024** | 🥇 **1st Place Winner - WeHackathon**  
-  Won championship in Data Synthesis & Data Distillation category  
+- **13/08/2024** | 🥇 **1st Place Winner - WeHackathon (FCI)**  
+  Champion in Data Synthesis & Data Distillation category for LLMs  
   [![WeHackathon Result](link_1)](link_1)
