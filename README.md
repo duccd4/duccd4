@@ -26,5 +26,5 @@
 #### 2024
 
 -   **13/08/2024** | **1st Place Winner - WeHackathon (FCI)**
-    - Champion of the competition with the project on "Data Synthesis & Data Distillation for LLMs"
+    - Champion of the competition (out of 25 teams) with the project on "Data Synthesis & Data Distillation for LLMs".
     [![WeHackathon Result](link_1)](link_1)
