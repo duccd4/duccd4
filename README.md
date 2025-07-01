@@ -13,10 +13,6 @@
     </p>
 
 -   **15/05/2025** | **FPT Generative AI Bootcamp (FPT Group & NVIDIA)**  
-    - Mentored the winning team (out of 30 teams) developing **automated medical report generation** from 3D CT/PET scans
-    <p align="center">
-      <img src="https://github.com/duccd4/duccd4/blob/main/FPT_AI_Open_Hackathon_2025.jpg" alt="Champion Award Ceremony" width="650"/>
-    </p>
 
 -   **19/03/2025** | **Top 1 - Vietnam Ministry of Science and Technology's Vietnamese LLM Evaluation Standard (Round 2)**
     - Top 1 in the mandatory questions section.
