@@ -7,6 +7,7 @@
 
 -   **27/06/2025** | **Champion - FPT AI Open Hackathon (FPT Group & NVIDIA)**  
     - Mentored the winning team (out of 30 teams) developing **automated medical report generation** from 3D CT/PET scans
+    - [Ref1](https://www.linkedin.com/posts/fptsmartcloud_fptsmartcloud-ai-nvidia-activity-7338844274542682112-a1kH?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD7BR3AB4kvKsrc_EhwMQIdQ3bt7UsyWUSc)
     <p align="center">
       <img src="https://github.com/duccd4/duccd4/blob/main/FPT_AI_Open_Hackathon_2025.jpg" alt="Champion Award Ceremony" width="650"/>
     </p>
