@@ -7,10 +7,6 @@
 
 -   **27/06/2025** | **Champion - FPT AI Open Hackathon (FPT Group & NVIDIA)**  
     - Mentored the winning team (out of 30 teams) developing **automated medical report generation** from 3D CT/PET scans
-    - Clinical impact:
-        - Reduction in radiologist workload  
-        - Faster clinical decision-making  
-        - Expert-level diagnostics accessibility  
     <p align="center">
       <img src="https://github.com/duccd4/duccd4/blob/main/FPT_AI_Open_Hackathon_2025.jpg" alt="Champion Award Ceremony" width="650"/>
     </p>
