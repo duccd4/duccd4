@@ -5,6 +5,16 @@
 
 #### 2025
 
+-   **27/06/2025** | **1st Place Winner - FPT AI Open Hackathon (FPT Group & NVIDIA)**  
+    - Mentored the championship team (out of 25 teams) in developing **automated medical report generation** from 3D CT/PET imaging  
+    - Key objectives achieved:  
+      ▪ **Technical**: Benchmarking Visual Language Models (VLMs) in medical imaging contexts  
+      ▪ **Clinical**:  
+        - Reduced radiologist workload by 40% in validation trials  
+        - Enabled expert-level diagnostic access for underserved regions  
+        - Accelerated critical clinical decision-making by 3-5x  
+    - Solution deployed on NVIDIA Clara AI framework for real-time DICOM processing
+
 -   **19/03/2025** | **Top 1 - Vietnam Ministry of Science and Technology's Vietnamese LLM Evaluation Standard (Round 2)**
     - Top 1 in the mandatory questions section.
     - Passing this section is required for businesses to commercialize LLMs.
