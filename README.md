@@ -15,7 +15,7 @@
         - Expert-level diagnostics accessibility  
     - Solution deployed on NVIDIA Clara for real-time DICOM processing
     <p align="center">
-      <img src="[https://raw.githubusercontent.com/duccd4/duccd4/main/fpt_hackathon_win.jpg](https://github.com/duccd4/duccd4/blob/main/FPT_AI_Open_Hackathon_2025.jpg)" alt="Champion Award Ceremony" width="650"/>
+      <img src="https://github.com/duccd4/duccd4/blob/main/FPT_AI_Open_Hackathon_2025.jpg" alt="Champion Award Ceremony" width="650"/>
     </p>
 
 -   **19/03/2025** | **Top 1 - Vietnam Ministry of Science and Technology's Vietnamese LLM Evaluation Standard (Round 2)**
